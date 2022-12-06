@@ -1,0 +1,11 @@
+{
+  "name": "la-panthere",
+  "version": "1.0.0",
+  "description": "amélioration du site de la panthère.",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch ./style.scss:./style.css --style compressed"
+  },
+  "author": "Etienne Ginet",
+  "license": "ISC"
+}
