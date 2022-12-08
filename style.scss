@@ -777,8 +777,11 @@ h4 {
 .btn-atomic-tangerine:hover {
     background: #c27956!important;
     color: #FFFFFF!important;
+    text-decoration: underline !important;
 }
-
+.btn-atomic-tangerine:focus{
+    text-decoration: underline;
+}
 .ltc-white {
     color: #FFFFFF!important;
 }
@@ -1032,6 +1035,10 @@ h4 {
     }
 }
 /* -------------------------------------------------------- section de modification pour l'amélioration SEO */
+* :focus-visible{
+    border: 5px red solid;
+}
+
 .navbar-header{
     margin-top: 25px;
     
@@ -1039,7 +1046,11 @@ h4 {
 .lien-nav.nav-acc{
    margin-right: 30px; 
 }
-/* partie texte */
+.lien-nav.nav-acc:hover, .lien-nav.lien-nav-cont:hover, .lien-nav-spp:hover, {
+    text-decoration: underline !important;
+    transition: none;
+ }
+
 .mg-md.text-center{
     font-size: 25px;
     font-weight: bold;
