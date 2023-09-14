@@ -14,4 +14,4 @@ Le code fournit dans ce projet étant de mauvaise qualité pour le SEO et l'acce
     - Une réalisation de test pour calculer la performance du site.
 
 Le code de ce repositories est le code améliorer, certains éléments peuvent encore être améliorés, cependant le délai été trop court pour régler tous les détails.
-Cependant, seul des problèmes mineurs sont présents sur ce site.
+Mais seul des problèmes mineurs sont présents sur ce site.
